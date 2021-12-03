@@ -1,0 +1,2 @@
+# Funkiverse
+ NFT & TypeScript & React
